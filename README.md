@@ -70,7 +70,7 @@ Standard procedure for a local web app
 
 ## Software Architecture
 ### Model-View-Controller (MVC) framework
-![image](https://github.com/user-attachments/assets/67797ba9-9b16-4528-b431-923599f4efbd)
+![image](boggleMvc.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Testing and Test Results
